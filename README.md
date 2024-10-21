@@ -1,11 +1,11 @@
 # Installation
 
-1. Clone repository using command **git clone https://github.com/Arantiryo/crud-api.git**
-2. Install dependencies using command **npm install**
-3. Add the port configuration in .env: **PORT=3000**
-4. To run the app in dev mode use command **npm run start:dev**
-5. To run the app in production mode use command **npm run start:prod**
-6. To run tests with Jest use command **npm run test** or **npx jest**
+1. Clone repository using command `git clone https://github.com/Arantiryo/crud-api.git`
+2. Install dependencies using command `npm install`
+3. Add the port configuration in .env: `PORT=3000`
+4. To run the app in dev mode use command `npm run start:dev`
+5. To run the app in production mode use command `npm run start:prod`
+6. To run tests with Jest use command `npm run test` or `npx jest`
 
 # Scoring: CRUD API
 
@@ -30,7 +30,7 @@
 
 ## Hacker Scope
 
-- **+0** There are tests for API (not less than **3** scenarios)
+- **+30** There are tests for API (not less than **3** scenarios)
 - **+0** There is horizontal scaling for application with a **load balancer**
 
 ## Forfeits
