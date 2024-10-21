@@ -1,3 +1,11 @@
+# Installation
+
+1. Clone repository using command **git clone https://github.com/Arantiryo/crud-api.git**
+2. Install dependencies using command **npm install**
+3. Add the port configuration in .env: **PORT=3000**
+4. To run the app in dev mode use command **npm run start:dev**
+5. To run the app in production mode use command **npm run start:prod**
+
 # Scoring: CRUD API
 
 ## Basic Scope
