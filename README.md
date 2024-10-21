@@ -5,6 +5,7 @@
 3. Add the port configuration in .env: **PORT=3000**
 4. To run the app in dev mode use command **npm run start:dev**
 5. To run the app in production mode use command **npm run start:prod**
+6. To run tests with Jest use command **npm run test** or **npx jest**
 
 # Scoring: CRUD API
 

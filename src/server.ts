@@ -4,9 +4,9 @@ import { handleRequest } from './userController';
 
 dotenv.config();
 
-const PORT = process.env.PORT || 4000;
+export const PORT = process.env.PORT || 4000;
 
-const server = http.createServer(handleRequest);
+export const server = http.createServer(handleRequest);
 
 server.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
